@@ -10,8 +10,8 @@
     { "id": 3, "body": "Ciao, sono Crisina", "postId": 3 },
   ],
   "PROFILE": [
-    "nameProfile": "1",
-    "nameProfile": "2",
-    "nameProfile": "3",
+    {"nameProfile": "1"},
+    {"nameProfile": "2"},
+    {"nameProfile": "3"},
   ]
 }
