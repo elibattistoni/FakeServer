@@ -9,4 +9,9 @@
     { "id": 2, "body": "Ciao, sono Domenico", "postId": 2 },
     { "id": 3, "body": "Ciao, sono Crisina", "postId": 3 },
   ],
+  "PROFILE": [
+    "nameProfile": "1",
+    "nameProfile": "2",
+    "nameProfile": "3",
+  ]
 }
