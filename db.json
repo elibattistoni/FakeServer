@@ -1,0 +1,12 @@
+{
+  "USERS": [
+    { "id": 1, "name": "Elisa" },
+    { "id": 2, "name": "Domenico" },
+    { "id": 3, "name": "Cristina" },
+  ],
+  "COMMENTS": [
+    { "id": 1, "body": "Ciao, sono Elisa", "postId": 1 },
+    { "id": 2, "body": "Ciao, sono Domenico", "postId": 2 },
+    { "id": 3, "body": "Ciao, sono Crisina", "postId": 3 },
+  ],
+}
